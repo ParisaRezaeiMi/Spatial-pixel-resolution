@@ -1,1 +1,1 @@
-# Spatial-pixel-resolution
+# Spatial_resolution
